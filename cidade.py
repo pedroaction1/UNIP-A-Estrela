@@ -142,7 +142,7 @@ class VetorOrdenado:
             for i in range(self.ultima_posicao + 1):
                 for j in range(len(self.valores[i].adjacentes)):
                     if self.valores[i].adjacentes[j].vertice.rotulo == atual.rotulo:
-                        string = f'{i + 1} - {self.valores[i].rotulo} --> {self.valores[i].adjacentes[j].custo} + {self.valores[i].distancia_lista[destino]} = {self.valores[i].adjacentes[j].distancia_aestrela}'
+                        string = f'{i + 1} - {self.valores[i].rotulo} --> {self.valores[i].adjacentes[j].custo} + {self.valores[i].distancia_lista[destino]} = {self.valores[i].adjacentes[j].custo + self.valores[i].distancia_lista[destino]}'
                         print(string)
                         caminho.append(string)
 
@@ -180,7 +180,7 @@ class AEstrela:
             elif self.objetivo.rotulo == 'Irati':
                 destino = 4
             elif self.objetivo.rotulo != 'Irati' and 'Tijucas do Sul' and 'Canoinhas' and 'Campo Largo' and 'Curitiba':
-                destino = 0
+                destino = 5
             vetor_ordenado = VetorOrdenado(len(atual.adjacentes))
             for adjacente in atual.adjacentes:
                 if not adjacente.vertice.visitado:
