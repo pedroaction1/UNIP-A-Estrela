@@ -1,0 +1,108 @@
+Porto União
+paulo frontin
+46
+são mateus do sul
+87
+canoinhas
+78
+Paulo Frontin
+porto união
+46
+irati
+75
+Canoinhas
+porto união
+78
+três barras
+12
+mafra
+66
+Três Barras
+canoinhas
+12
+são mateus do sul
+43
+São Mateus do Sul
+porto união
+87
+irati
+57
+três barras
+43
+palmeira
+77
+lapa
+60
+Irati
+paulo frontin
+75
+são mateus do sul
+57
+palmeira
+75
+Curitiba
+campo largo
+29
+balsa nova
+51
+araucária
+37
+são josé dos pinhais
+15
+Palmeira
+irati
+75
+são mateus do sul
+77
+campo largo
+55
+Mafra
+canoinhas
+66
+lapa
+57
+tijucas do sul
+99
+Campo Largo
+palmeira
+55
+balsa nova
+22
+curitiba
+29
+Balsa Nova
+campo largo
+22
+curitiba
+51
+contenda
+19
+Lapa
+contenda
+26
+são mateus do sul
+60
+mafra
+57
+Tijucas do Sul
+são josé dos pinhais
+49
+mafra
+99
+Araucária
+contenda
+18
+curitiba
+37
+São José dos Pinhais
+tijucas do sul
+49
+curitiba
+15
+Contenda
+lapa
+26
+balsa nova
+19
+araucária
+18

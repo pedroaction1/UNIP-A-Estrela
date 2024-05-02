@@ -1,0 +1,153 @@
+CURITIBA
+irati
+138
+palmeira
+72
+campo Largo
+27
+balsa nova
+41
+araucária
+23
+são josé dos pinhais
+13
+tijucas do sul
+59
+mafra
+94
+lapa
+59
+contenda
+39
+são mateus do sul
+123
+três barras
+131
+paulo frontin
+172
+canoinhas
+141
+porto união
+203
+CAMPO LARGO #################
+curitiba
+27
+balsa nova
+16
+palmeira
+46
+contenda
+25
+araucária
+20
+tijucas do sul
+62
+lapa
+38
+mafra
+79
+canoinhas
+117
+três barras
+107
+são mateus do sul
+96
+irati
+111
+paulo frontin
+145
+porto união
+177
+CANOINHAS ##############
+curitiba
+141
+palmeira
+92
+campo largo
+116
+balsa nova
+101
+araucária
+122
+são josé dos pinhais
+139
+tijucas do sul
+124
+mafra
+58
+lapa
+81
+contenda
+102
+são mateus do sul
+34
+três barras
+10
+irati
+80
+paulo frontin
+46
+porto união
+69
+TIJUCAS ############
+curitiba
+56
+palmeira
+100
+campo largo
+63
+balsa nova
+59
+araucária
+43
+são josé dos pinhais
+44
+mafra
+67
+lapa
+57
+contenda
+45
+são mateus do sul
+120
+três barras
+115
+irati
+155
+paulo frontin
+166
+canoinhas
+124
+porto união
+193
+IRATI #########
+curitiba
+138
+palmeira
+65
+campo largo
+112
+balsa nova
+103
+araucária
+126
+são josé dos pinhais
+145
+tijucas do sul
+155
+mafra
+111
+lapa
+98
+contenda
+114
+são mateus dosSul
+51
+três barras
+80
+paulo frontin
+66
+canoinhas
+81
+porto união
+94
